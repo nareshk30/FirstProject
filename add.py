@@ -1,4 +1,4 @@
 a=1
-b=5
+b=2
 print(a+b)
 print("My First Project in GIT")
